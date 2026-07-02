@@ -3,3 +3,5 @@
 out/
 target/
 *.class
+simple_calculator/simple_calculator.iml
+basic_syntx/basic_syntx.iml
