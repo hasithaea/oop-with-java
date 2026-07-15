@@ -3,7 +3,7 @@ class Car{
     String color;
 }
 
-public class Main{
+public class Main_car{
     public static void main(String[] args){
         Car car1= new Car();
 
