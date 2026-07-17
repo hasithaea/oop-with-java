@@ -101,12 +101,12 @@ java package_name.Main
 
 ## Course Information
 
-**Courses:** Object Oriented System Development (CSC1242) 
+**Course:** Object Oriented System Development (CSC1242) \
+**Degree Program:** Bachelor of Computer Science \
+**University:** University of Ruhuna, Sri Lanka
 <!-- 
 Object Oriented Programming (CSC2123) 
 -->
-**Degree Program:** Bachelor of Computer Science \
-**University:** University of Ruhuna, Sri Lanka
 
 ## Author
 **Hasitha Amarasinghe** \
@@ -118,6 +118,3 @@ University of Ruhuna, Sri Lanka
 
 This repository is available under the MIT License.
 
----
-
-*This repository is intended for educational purposes and serves as a record of my learning journey in Java and Object Oriented Programming.*
