@@ -8,12 +8,22 @@ class Animal {
 }
 
 class Dog extends Animal {
+    @Override
+    void eat() {
+        super.eat();
+        System.out.println("Dog is eating");
+    }
+
     void bark() {
         System.out.println("Woof");
     }
 }
 
 class Cat extends Animal {
+    @Override
+    void eat() {
+        System.out.println("Cat is eating");
+    }
     void purr() {
         System.out.println("Purrrr");
     }
