@@ -1,7 +1,21 @@
+# IntelliJ IDEA
 .idea/
 *.iml
+
+# NetBeans
+nbproject/
+
+# Build Outputs
 out/
+build/
 target/
+bin/
 *.class
-simple_calculator/simple_calculator.iml
-basic_syntx/basic_syntx.iml
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
