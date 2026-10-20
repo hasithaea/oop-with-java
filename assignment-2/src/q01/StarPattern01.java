@@ -1,3 +1,5 @@
+package q01;
+
 public class StarPattern01 {
     public static void main (String args[]){
         int i,j;
